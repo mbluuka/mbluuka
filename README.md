@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with ISB-119
 
 
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
